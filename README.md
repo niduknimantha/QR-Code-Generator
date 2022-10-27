@@ -7,7 +7,8 @@
 <br><br> QR Code Generator</h1>
 <h3 align="center">I'm a passionate Developer and Content Creator from Sri Lanka. 💻</h3>-->
 <br><br>
-<b>Available at : <a href="https://calc.niduk.tk">Click Here</a></b>
+<b>Available at : <a href="https://niduknimantha.github.io/QR-Code-Generator">Click Here</a></b>
+
 
 <br><br>
 <h5 align="center">With <a href="https://goqr.me/api">QR Server API</a></h5>
